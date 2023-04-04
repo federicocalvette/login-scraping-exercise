@@ -1,0 +1,4 @@
+LOGIN_CREDENTIALS = {
+    'username': 'admin',
+    'password': 'admin'
+}
